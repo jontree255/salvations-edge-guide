@@ -9,20 +9,21 @@
 
 ## Setup
 - Build for add clear, survivability, and Tormentor killing
-- Split into three teams of 2.
+- Split into three teams of 2. Each pair has one "reader". The "reader" will take the plate closest to the exit on their pair. 
 - Teams go left, right, and middle. 
-- Each area has two ping plates and a resonance conduit for each plate. 
+- Each area has two ping plates and a resonance conduit on the plate near the exit of the room.
 - Resonance conduits can now have either a triangle, a sphere, or a box and require matching resonance to shut them off.
-- Player who gets last hit on the Tormentor recieves the buff that allows them to see what shape is needed to shut off the conduit.
+- Player who gets last hit on a Tormentor recieves the buff that allows them to see what shape is needed to shut off the conduit. This person is the "reader"
 
 ## Encounter
 - Each room is different but has 6 plate split into 3 pairs.
-- Adds spawn in constantly along with a Tormentor.
-- Player who gets the last hit on the Tormentor recieves the buff to reveal the conduits. 
-- After killing the Tormentor Cabal turrets spawn.
+- Adds spawn in with 3 Tormentors. The "readers" should get last hit on the Tormentors.
+- After killing the Tormentor Cabal turrets spawn. Kill these ASAP. 
 - Begin ping ponging after Conduit shapes are identified. 
 - Ping pong works the same as the previous encounters with the addition of a 3rd shape.
-- Resonance shapes are going to spawn further away from the plates requiring platforming and traversal. 
+- Resonance shapes are going to spawn further away from the plates and it becomes near impossible to get shapes AND ping the plates.
+- You can spawn the resonance objects and then intentionally fail the final ping. This will spawn a Subjugator who must be killed to activate the plates again.
+- Once you kill the subjugator you can freely pick up your objects. Activate the plates again and complete the ping pong process to charge the conduit and turn it off.  
 - As you progress through the rooms the circuits will begin to cross over each other. See below for rough image guide.
 - Gather resonance and dunk in the chests after turning off the conduits in 3 rooms to complete the encounter. 
 
