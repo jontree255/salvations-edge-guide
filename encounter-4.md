@@ -36,7 +36,7 @@
 - The raid group will be randomly split into two teams.
   - 3 Players will be put into separate rooms as solos. The Solo Team
   - The remaining 3 players will stay in the spawn room. The Group Team.
-- Periodically throughout the encounter the Witness will kill and freeze random players.
+- Periodically throughout the encounter the Witness will kill and freeze random players on the Solo Team.
   - To revive a player you must pick up their Ghost and take it to the corresponding statue of the guardian.
   - The person who picks up the Ghost CANNOT see which statue is where. The dead Guardians can. 
   - Dead guardians must direct the player who picks up the Ghost to the correct statue. 
