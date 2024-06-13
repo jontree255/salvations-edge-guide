@@ -8,7 +8,8 @@
 - Picking up 4 stacks of resonance.
 
 ## Setup
-- Build for add clear, survivability, and Tormentor killing
+- Build for add clear, survivability, and Tormentor killing.
+- Have Unstoppable stunning capability
 - Split into three teams of 2. Each pair has one "reader". The "reader" will take the plate closest to the exit on their pair. 
 - Teams go left, right, and middle. 
 - Each area has two ping plates and a resonance conduit on the plate near the exit of the room.
@@ -23,7 +24,8 @@
 - Ping pong works the same as the previous encounters with the addition of a 3rd shape.
 - Resonance shapes are going to spawn further away from the plates and it becomes near impossible to get shapes AND ping the plates.
 - You can spawn the resonance objects and then intentionally fail the final ping. This will spawn a Subjugator who must be killed to activate the plates again.
-- Once you kill the subjugator you can freely pick up your objects. Activate the plates again and complete the ping pong process to charge the conduit and turn it off.  
+- Once you kill the subjugator you can freely pick up your objects. Activate the plates again and complete the ping pong process to charge the conduit and turn it off.
+- Kill and Unstoppable Ogre at the exit door of the room to open it and get to the next room.  
 - As you progress through the rooms the circuits will begin to cross over each other. See below for rough image guide.
 - Gather resonance and dunk in the chests after turning off the conduits in 3 rooms to complete the encounter. 
 
