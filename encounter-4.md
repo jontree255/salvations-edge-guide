@@ -43,7 +43,7 @@
   - Dead guardians must direct the player who picks up the Ghost to the correct statue. 
   - If deposited in the correct statue the player will unfreeze where they were and can continue.
 
-### Solo Team
+### Solo Team (Inside Team)
 - Look to the back of the room for the 3 statues.
 - Call out to the Group the order of the shapes from left to right. They will be the same for all members of the Solo team.
 - Identify which statue is you and which shape the statue is holding. 
@@ -61,7 +61,7 @@
 - Now each solo player's room should be dropping the two shapes their statue DOES NOT have. 
 - Each player kills two knights to get both shapes and form the 3D object they need to exit their room.
 
-### Group Team
+### Group Team (Outside Team)
 - Select one person to move shapes once the teams are split. This person is the "Mover".
 - The other two are on add clear and/or Ghost duty. They must also deal with Unstoppable champs. 
 - The mover listens to the callouts from the solo team. 
@@ -89,6 +89,56 @@
     - Mover kills Right knight and puts Square into Middle Statue.
   - Mover now has Cylinder, Prisim, Cone.
   - Solo Players can now exit their rooms. 
+
+  ### Group Team (Outside Team) - Alternative Guide
+- Select one person to move shapes once the teams are split. This person is the "Mover".
+- The other two are on add clear. Prioritize Unstoppable champs as soon as they spawn. 
+- Anyone can kill Knights, but only the "Mover" should be picking up the shapes they drop
+- The mover listens to the callouts from the solo team. (Left to Right)
+- You want to make sure the 3 statues in the outside room are holding 3d shapes that do not contain what the inside team shape is holding
+- Example:
+  - Inside Middle Statue is holding a 2D circle
+  - Mover's goal is to make the middle statue hold a 3d shape that does not contain a circle,  so in this case. Square and Triangle
+- The best way to solve this is by doing one statue at a time
+- This should allow you to only have to solve two statues. 
+- If you solve the left, then solve the right, the middle will be guaranteed to be correct
+- #### Solving LEFT statue
+  - Take note of what shape the inside team said was holding for that statue
+    - Example: Inside team said **LEFT** statue was holding a circle
+    - Example: The outside **LEFT** statue is holding a cone (circle + triangle)
+    - Note: We dont want a circle on this statue, you want square + triangle
+  - Step 1: Kill the knight that drops the unwanted shape (Example: circle)
+  - Step 2: Pick up unwanted shape
+  - Step 3: Deposit (Dissect) unwanted shape on **LEFT** statue 
+  - Step 4: Kill a knight that has the shape you want instead (Example: square)
+  - Step 5: Pick up wanted shape
+  - Step 6: Deposit wanted shape into one of the two statues you are **NOT** solving
+    - Note: Make sure the statue you are deposting actually has that shape. 
+      - If you try to deposit a square on a statue that contains a sphere, it wont work. 
+      - If that is the case, then just deposit on the other statue you arent solving
+  - Depositing the wanted shape, should then swap those two 2D shapes between the two statues
+  - If you did this correctly, the **LEFT** statue should be solved!
+- #### Solving RIGHT statue
+  - Take note of what shape the inside team said was holding for that statue
+    - Example: Inside team said **RIGHT** statue was holding a triangle
+    - Example: The outside **RIGHT** statue is holding a prism (square + triangle)
+    - Note: We dont want a triangle on this statue, you want square + circle
+  - Step 1: Kill the knight that drops the unwanted shape (Example: triangle)
+  - Step 2: Pick up unwanted shape
+  - Step 3: Deposit (Dissect) unwanted shape on **RIGHT** statue
+  - Step 4: Kill a knight that has the shape you want instead (Example: circle)
+  - Step 5: Pick up wanted shape
+  - Step 6: Deposit wanted shape into the **MIDDLE** statue
+  - Depositing the wanted shape, should then swap those two 2D shapes between the two statues
+  - If you did this correctly, the **RIGHT** statue should be solved
+- #### Solving MIDDLE statue
+  - You dont need to if the others are correct :)
+- Let inside team know they can walk through the wall now
+- Extra Notes:
+  - Each Knight drops a specific shape
+    - Left Knight drops Circle
+    - Middle Knight drops Triangle
+    - Right Knight drops Square
 
 ### Regroup
 - By this time both Teams should have sorted out their shapes and the Solo Team should be able to exit their respective rooms.
